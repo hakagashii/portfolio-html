@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+
+  *{
+    font-family: 'Onest', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+
+
+    .navigimi{
+      background-color: beige;
+      padding: 6px;
+      margin: 10px auto;
+      font-size: 20px;
+      background: url(hg.png)
+    }
+
+    .navigimi a:hover{
+      color: black;
+
+    }
+
+    .myself {
+      background-color: #0d2e46;
+      padding: 0 18%;
+      margin: 0 auto;
+      
+    }
+
+
+   .h-text{
+    color: beige;
+    font-size: 17px;
+   }
+
+   .h-text1{
+    color: beige;
+    font-size: 25px;
+   }
+
+
+   .h-icona a{
+    padding-left: 35px;
+    margin: 20px;
+    font-size: 35px;
+    color: blue;
+   }
+
+   .h-icona a:hover{
+    color: beige;
+   }
+
+    .h-foto{
+      width: 100px;
+    }
+  
+    .us{
+      margin: 0px auto;
+      width: 80%;
+    }
+
+    .us-txt {
+      padding: 0 0 20px 0;
+
+    }
+
+    #usfotot .usf{
+      border-bottom: 7px solid rgb(87, 126, 87);
+      border-top: 7px solid rgb(87, 126, 87);
+    }
+
+    .usSub{
+      margin-top: 20px;
+      margin-left: 100px;
+      background-color: #E9E1EE;
+    }
+
+    .ex{
+      margin: 0px auto ;
+      width: 80%;
+    }
+
+    .extxt{
+      background-color: #E9E1EE;
+      padding-bottom: 20px;
+    }
+
+    .form{
+      margin: 0px auto;
+      background-color: #EEE6E5;
+      border-top: 7px solid rgb(87, 126, 87);
+      border-bottom: 7px solid rgb(87, 126, 87);
+    }
